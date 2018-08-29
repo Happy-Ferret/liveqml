@@ -1,0 +1,10 @@
+# Exclude config file
+.vscode/
+
+# Exclude Qt file
+deploy/
+rcc*
+moc*
+
+# Exclude testing QML file
+qml/
